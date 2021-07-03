@@ -11,7 +11,7 @@
 
 int main(void)
 {
-    print("Hello world");
+    print("Hello world \n");
 
     return 0;
 }
