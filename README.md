@@ -6,6 +6,7 @@
 1. 입출력과 사칙연산
 
 (1) Hello World
+
 #include <stdio.h>
 
 int main(void)
@@ -16,6 +17,7 @@ int main(void)
 }
 
 (2) We love kriii
+
 #include <stdio.h>
 
 int main(void)
